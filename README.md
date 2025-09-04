@@ -1,3 +1,3 @@
 # PongDQN
 
-![Pong Demo](videos/cartpole.gif)
+![Pong Demo](video/pong.gif)
